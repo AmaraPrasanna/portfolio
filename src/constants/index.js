@@ -11,10 +11,13 @@ My interests lie in both software development and data science. When I'm not cod
 
 export const EXPERIENCES = [
   {
-    year: "August 2024 - Present",
-    role: "IT Help Desk Student Assistant",
-    company: "CSU Sacramento",
-    description:`Responsible for managing and prioritizing IT support tickets using ServiceNow to ensure efficient resolution of technical issues across various systems and platforms.\nAdministered Duo accounts through Duo Admin, including provisioning, troubleshooting, and managing multi-factor authentication (MFA) requests to maintain secure access. \nProvided comprehensive technical support for hardware, software, and network-related issues, ensuring seamless IT operations for students, faculty, and staff.`
+    year: "January 2025 - Present",
+    role: "Data Analytics Intern",
+    company: "California Air Resources Board (CARB)",
+    description:`• Developed and maintained Power BI dashboards for real-time air quality data visualization, delivering insights on air pollutants and
+their concentrations.
+• Created interactive Power BI reports to allow users to explore and analyze air quality trends, supporting data-driven decision-making.
+• Utilized Python for data preprocessing and transformation, enhancing the efficiency and accuracy of data workflows.`
     , technologies: ["ServiceNow", "Duo Admin"],
   },
   {
