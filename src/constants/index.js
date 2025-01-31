@@ -13,7 +13,7 @@ export const EXPERIENCES = [
     At CARB, I am responsible for developing and maintaining Power BI dashboards that provide real-time insights into air quality data. By creating interactive reports, I enable users to explore and analyze air pollution trends, supporting data-driven decision-making. Additionally, I utilize Python for data preprocessing and transformation, optimizing data workflows for enhanced efficiency and accuracy.`,
 
 
-     technologies: [".NET", "Angular", "SQL Server", "C#", "Java"],
+     technologies: ["Python", "Powerbi", "Tableau"],
   },
   {
     year: "May 2024 - August 2024",
