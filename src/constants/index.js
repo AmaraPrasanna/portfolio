@@ -1,8 +1,3 @@
-import project1 from "../assets/projects/project-1.jpg";
-import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
-
 export const HERO_CONTENT = `I'm Parth Shiroya, a passionate software developer and aspiring data scientist based in California. Currently, I'm pursuing a Master’s in Computer Science at California State University Sacramento. Beyond coding, I enjoy hiking, trying new foods, traveling, watching movies, and listening to music. I bring creativity and dedication to every project, specializing in innovative web and mobile applications. Let’s collaborate and create something exceptional together!`
 
 export const ABOUT_TEXT = `Hi, I'm Parth Shiroya, a dedicated software developer currently pursuing a Master's degree in Computer Science at California State University Sacramento. I hold a Bachelor's degree in Information & Communication Technology. My expertise spans a wide range of programming languages, including Python, Java, C#, JavaScript, TypeScript, HTML/CSS, SQL, SML, and PHP. Over the years, I have gained hands-on experience with frameworks and libraries such as Angular, React, .Net, Node.
