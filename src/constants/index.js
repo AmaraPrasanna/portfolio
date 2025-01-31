@@ -5,16 +5,7 @@ export const ABOUT_TEXT = `Hi, I'm Parth Shiroya, a dedicated software developer
 My interests lie in both software development and data science. When I'm not coding, I enjoy exploring new cuisines, travelling, hiking, watching movies, and listening to music. These hobbies not only refresh my mind but also inspire creativity and new perspectives in my professional work. Let’s connect and explore opportunities to create innovative solutions together!`
 
 export const EXPERIENCES = [
-  {
-    year: "January 2025 - Present",
-    role: "Data Analytics Intern",
-    company: "California Air Resources Board (CARB)",
-    description:` Developed and maintained Power BI dashboards for real-time air quality data visualization, delivering insights on air pollutants and
-their concentrations.
- Created interactive Power BI reports to allow users to explore and analyze air quality trends, supporting data-driven decision-making.
- Utilized Python for data preprocessing and transformation, enhancing the efficiency and accuracy of data workflows.`
-    , technologies: ["ServiceNow", "Duo Admin"],
-  },
+ 
   {
     year: "May 2024 - August 2024",
     role: "Software Developer Intern",
