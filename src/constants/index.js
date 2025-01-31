@@ -5,13 +5,7 @@ export const ABOUT_TEXT = `Hi, I'm Parth Shiroya, a dedicated software developer
 My interests lie in both software development and data science. When I'm not coding, I enjoy exploring new cuisines, travelling, hiking, watching movies, and listening to music. These hobbies not only refresh my mind but also inspire creativity and new perspectives in my professional work. Let’s connect and explore opportunities to create innovative solutions together!`
 
 export const EXPERIENCES = [
-  {
-    year: "August 2024 - Present",
-    role: "IT Help Desk Student Assistant",
-    company: "CSU Sacramento",
-    description:`Responsible for managing and prioritizing IT support tickets using ServiceNow to ensure efficient resolution of technical issues across various systems and platforms.\nAdministered Duo accounts through Duo Admin, including provisioning, troubleshooting, and managing multi-factor authentication (MFA) requests to maintain secure access. \nProvided comprehensive technical support for hardware, software, and network-related issues, ensuring seamless IT operations for students, faculty, and staff.`
-    , technologies: ["ServiceNow", "Duo Admin"],
-  },
+ 
   {
     year: "May 2024 - August 2024",
     role: "Software Developer Intern",
