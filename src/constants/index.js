@@ -14,10 +14,10 @@ export const EXPERIENCES = [
     year: "January 2025 - Present",
     role: "Data Analytics Intern",
     company: "California Air Resources Board (CARB)",
-    description:`• Developed and maintained Power BI dashboards for real-time air quality data visualization, delivering insights on air pollutants and
+    description:` Developed and maintained Power BI dashboards for real-time air quality data visualization, delivering insights on air pollutants and
 their concentrations.
-• Created interactive Power BI reports to allow users to explore and analyze air quality trends, supporting data-driven decision-making.
-• Utilized Python for data preprocessing and transformation, enhancing the efficiency and accuracy of data workflows.`
+ Created interactive Power BI reports to allow users to explore and analyze air quality trends, supporting data-driven decision-making.
+ Utilized Python for data preprocessing and transformation, enhancing the efficiency and accuracy of data workflows.`
     , technologies: ["ServiceNow", "Duo Admin"],
   },
   {
