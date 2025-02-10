@@ -1,8 +1,8 @@
-export const HERO_CONTENT = `I'm Parth Shiroya, a passionate software developer and aspiring data scientist based in California. Currently, I'm pursuing a Master’s in Computer Science at California State University Sacramento. Beyond coding, I enjoy hiking, trying new foods, traveling, watching movies, and listening to music. I bring creativity and dedication to every project, specializing in innovative web and mobile applications. Let’s collaborate and create something exceptional together!`
+export const HERO_CONTENT = `Hi, I’m Parth, a software developer passionate about building innovative web and mobile applications. With expertise in full-stack development and data-driven solutions, I craft seamless digital experiences. Let’s build something amazing together!`
 
-export const ABOUT_TEXT = `Hi, I'm Parth Shiroya, a dedicated software developer currently pursuing a Master's degree in Computer Science at California State University Sacramento. I hold a Bachelor's degree in Information & Communication Technology. My expertise spans a wide range of programming languages, including Python, Java, C#, JavaScript, TypeScript, HTML/CSS, SQL, SML, and PHP. Over the years, I have gained hands-on experience with frameworks and libraries such as Angular, React, .Net, Node.
+export const ABOUT_TEXT = `I’m a dedicated software developer with a strong foundation in full-stack development and data analytics. My experience spans Python, Java, C#, JavaScript, and frameworks like React, Angular, and .NET. I thrive on solving complex challenges and optimizing user experiences.
 
-My interests lie in both software development and data science. When I'm not coding, I enjoy exploring new cuisines, travelling, hiking, watching movies, and listening to music. These hobbies not only refresh my mind but also inspire creativity and new perspectives in my professional work. Let’s connect and explore opportunities to create innovative solutions together!`
+Outside of coding, I love exploring new cuisines, hiking scenic trails, and traveling to new places—experiences that fuel my creativity and perspective in tech. If you’re looking for a developer who blends technical expertise with creative problem-solving, let’s connect!`
 
 export const EXPERIENCES = [
   {
