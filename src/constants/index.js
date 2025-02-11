@@ -20,7 +20,7 @@ export const EXPERIENCES = [
   {
     year: "May 2024 - August 2024",
     role: "Software Developer Intern",
-    company: " Yardi Systems",
+    company: " Yardi Systems, Santa Barbara",
     description:`
      During my internship at Yardi Systems, I contributed to building interactive dashboards using Angular and TypeScript, ensuring a seamless user experience with real-time data updates. I worked extensively with SQL Server, optimizing data retrieval and manipulation through advanced queries and data-binding techniques. My role also involved developing robust C#/.NET backend services to facilitate smooth frontend-backend communication. Furthermore, I designed and implemented RESTful APIs using .NET Core, integrating authentication, authorization, and error handling to ensure secure and scalable system interactions.`,
 
