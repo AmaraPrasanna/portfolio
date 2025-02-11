@@ -1,8 +1,10 @@
-export const HERO_CONTENT = `Hi, I’m Parth, a software developer passionate about building innovative web and mobile applications. With expertise in full-stack development and data-driven solutions, I craft seamless digital experiences. Let’s build something amazing together!`
+export const HERO_CONTENT = `Hi, I’m Parth, a passionate developer and data enthusiast who loves solving complex problems through technology. With expertise in full-stack development, data analytics, and machine learning, I build intelligent applications and extract meaningful insights from data. Let’s connect and create something impactful!`
 
-export const ABOUT_TEXT = `I’m a dedicated software developer with a strong foundation in full-stack development and data analytics. My experience spans Python, Java, C#, JavaScript, and frameworks like React, Angular, and .NET. I thrive on solving complex challenges and optimizing user experiences.
+export const ABOUT_TEXT = `I’m a dedicated Software Developer and Data Enthusiast with a strong foundation in full-stack development, AI, and data analytics. My experience spans Python, Java, C#, JavaScript, SQL, and TypeScript, along with frameworks like React, Angular, .NET, TensorFlow, and Pandas.
 
-Outside of coding, I love exploring new cuisines, hiking scenic trails, and traveling to new places—experiences that fuel my creativity and perspective in tech. If you’re looking for a developer who blends technical expertise with creative problem-solving, let’s connect!`
+I thrive on solving complex challenges—whether it’s developing scalable web applications, building AI-driven solutions, or analyzing data to drive decision-making. My expertise includes machine learning, data visualization, and automation, allowing me to craft intelligent systems that deliver real impact.
+
+Outside of coding, I enjoy exploring new cuisines, hiking scenic trails, and traveling to new places—experiences that fuel my creativity in tech. If you’re looking for a developer who blends technical expertise with data-driven problem-solving, let’s connect!`
 
 export const EXPERIENCES = [
   {
