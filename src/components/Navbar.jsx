@@ -9,7 +9,7 @@ const Navbar = () => {
   return (
       <nav className="mb-20 flex items-center justify-between py-6">
         <div className="flex flex-shrink-0 item-center">
-            <img className="mx-2 w-10 color:white "  src={logo} alt="logo" style={{zoom:3}}/>
+            <img className="mx-2 w-10 color:white "  src={logo} alt="logo" style={{zoom:2}}/>
         </div>
         <div className="m-8 flex item-center justify-center gap-4 text-2xl">
           <a href="https://www.linkedin.com/in/parth-shiroya-9586931b4/"><FaLinkedin/></a>
