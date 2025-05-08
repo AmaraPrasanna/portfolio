@@ -15,16 +15,6 @@ export const EXPERIENCES = [
     As a Web Developer Student Assistant at California State University, Sacramento, I focus on developing and maintaining responsive web applications for the university’s technology department. My work involves using HTML5, CSS3, JavaScript (ES6), and PHP to enhance online platforms and improve user experience. I implement client-side validation and efficient form handling to optimize usability. Additionally, I manage version control through Git, collaborating on code reviews and merge requests. Apart from development, I provide Tier 1 & Tier 2 technical support, troubleshooting hardware, software, and network-related issues for students, faculty, and staff.`,
      technologies: ["HTML", "CSS", "JavaScript", "PHP"],
   },
-  {
-    year: "May 2024 - August 2024",
-    role: "Software Developer Intern",
-    company: " Yardi Systems, Santa Barbara",
-    description:`
-     During my internship at Yardi Systems, I contributed to building interactive dashboards using Angular and TypeScript, ensuring a seamless user experience with real-time data updates. I worked extensively with SQL Server, optimizing data retrieval and manipulation through advanced queries and data-binding techniques. My role also involved developing robust C#/.NET backend services to facilitate smooth frontend-backend communication. Furthermore, I designed and implemented RESTful APIs using .NET Core, integrating authentication, authorization, and error handling to ensure secure and scalable system interactions.`,
-
-
-     technologies: [".NET", "Angular", "SQL Server", "C#", "Java"],
-  },
 
   
   {
@@ -37,6 +27,19 @@ export const EXPERIENCES = [
 
      technologies: ["Python", "Power Bi", "Tableau"],
   },
+    
+  {
+    year: "May 2024 - August 2024",
+    role: "Software Developer Intern",
+    company: " Yardi Systems, Santa Barbara",
+    description:`
+     During my internship at Yardi Systems, I contributed to building interactive dashboards using Angular and TypeScript, ensuring a seamless user experience with real-time data updates. I worked extensively with SQL Server, optimizing data retrieval and manipulation through advanced queries and data-binding techniques. My role also involved developing robust C#/.NET backend services to facilitate smooth frontend-backend communication. Furthermore, I designed and implemented RESTful APIs using .NET Core, integrating authentication, authorization, and error handling to ensure secure and scalable system interactions.`,
+
+
+     technologies: [".NET", "Angular", "SQL Server", "C#", "Java"],
+  },
+
+
   {
     year: "January 2023 - May 2023",
     role: "Web Developer Intern",
