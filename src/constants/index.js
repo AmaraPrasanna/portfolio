@@ -7,15 +7,13 @@ I thrive on solving complex challenges—whether it’s developing scalable web 
 Outside of coding, I enjoy exploring new cuisines, hiking scenic trails, and traveling to new places—experiences that fuel my creativity in tech. If you’re looking for a developer who blends technical expertise with data-driven problem-solving, let’s connect!`
 
 export const EXPERIENCES = [
-  {
-    year: "January 2025 - Present",
-    role: "Data Analytics Intern",
-    company: " California Air Resources Board (CARB), Sacramento",
-    description:`
-    At CARB, I am responsible for developing and maintaining Power BI dashboards that provide real-time insights into air quality data. By creating interactive reports, I enable users to explore and analyze air pollution trends, supporting data-driven decision-making. Additionally, I utilize Python for data preprocessing and transformation, optimizing data workflows for enhanced efficiency and accuracy.`,
-
-
-     technologies: ["Python", "Power Bi", "Tableau"],
+    {
+    year: "January 2024 - Present",
+    role: "Web Developer Student Assistant",
+    company: " CSU Sacramento",
+    description: `
+    As a Web Developer Student Assistant at California State University, Sacramento, I focus on developing and maintaining responsive web applications for the university’s technology department. My work involves using HTML5, CSS3, JavaScript (ES6), and PHP to enhance online platforms and improve user experience. I implement client-side validation and efficient form handling to optimize usability. Additionally, I manage version control through Git, collaborating on code reviews and merge requests. Apart from development, I provide Tier 1 & Tier 2 technical support, troubleshooting hardware, software, and network-related issues for students, faculty, and staff.`,
+     technologies: ["HTML", "CSS", "JavaScript", "PHP"],
   },
   {
     year: "May 2024 - August 2024",
@@ -27,13 +25,17 @@ export const EXPERIENCES = [
 
      technologies: [".NET", "Angular", "SQL Server", "C#", "Java"],
   },
+
+  
   {
-    year: "January 2024 - Present",
-    role: "Web Developer Student Assistant",
-    company: " CSU Sacramento",
-    description: `
-    As a Web Developer Student Assistant at California State University, Sacramento, I focus on developing and maintaining responsive web applications for the university’s technology department. My work involves using HTML5, CSS3, JavaScript (ES6), and PHP to enhance online platforms and improve user experience. I implement client-side validation and efficient form handling to optimize usability. Additionally, I manage version control through Git, collaborating on code reviews and merge requests. Apart from development, I provide Tier 1 & Tier 2 technical support, troubleshooting hardware, software, and network-related issues for students, faculty, and staff.`,
-     technologies: ["HTML", "CSS", "JavaScript", "PHP"],
+    year: "January 2025 - April 2025",
+    role: "Data Analytics Intern",
+    company: " California Air Resources Board (CARB), Sacramento",
+    description:`
+    At CARB, I am responsible for developing and maintaining Power BI dashboards that provide real-time insights into air quality data. By creating interactive reports, I enable users to explore and analyze air pollution trends, supporting data-driven decision-making. Additionally, I utilize Python for data preprocessing and transformation, optimizing data workflows for enhanced efficiency and accuracy.`,
+
+
+     technologies: ["Python", "Power Bi", "Tableau"],
   },
   {
     year: "January 2023 - May 2023",
