@@ -7,9 +7,6 @@ import Contact from "./components/Contact"
 
 export default function App() {
 
-    useEffect(() => {
-    document.title = "Parth Shiroya"  // ← Set your custom title here
-  }, [])
   
   return (
     <div className="overflow-x-hidden text-neutral-300 antialiased selection: bg-cayan-300 selection:text-cyan-900">
