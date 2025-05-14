@@ -1,4 +1,4 @@
-import profilePic from "../assets/hero_image.png"
+import profilePic from "../assets/P_image.jpg"
 import { HERO_CONTENT } from "../constants";
 import { motion } from "framer-motion";
 
@@ -23,7 +23,7 @@ const Hero = () => {
                             animate="visible"
                             className="pb-16 text-6xl font-thin tracking-tight lg:mt-16 lg:text-8xl"
                         >
-                            Parth Shiroya
+                           Prasanna Amara
                         </motion.h1>
                         <motion.span
 
@@ -48,7 +48,8 @@ const Hero = () => {
                             initial={{x:100,opacity:0}}
                             animate={{x:0,opacity:1}}
                             transition={{duration:1,delay:1.2}}
-                            src={profilePic} alt="Parth Shiroya Photo" />
+                            src={profilePic} alt="Prasanna Amara Photo" 
+                            style={{ width: '250px', height: '200px', borderRadius: '50%', objectFit: 'cover' }}/>
                     </div>
                 </div>
 

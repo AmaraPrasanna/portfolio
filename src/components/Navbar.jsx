@@ -12,13 +12,9 @@ const Navbar = () => {
             <img className="mx-2 w-10 color:white "  src={logo} alt="logo" style={{zoom:1}}/>
         </div>
         <div className="m-8 flex item-center justify-center gap-4 text-2xl">
-          <a href="https://www.linkedin.com/in/parth-shiroya-9586931b4/"><FaLinkedin/></a>
-          <a href="https://github.com/72784"><FaGithub/></a>
-          <a href="https://www.instagram.com/parth__shiroya/">    <FaInstagram/></a>
-          
-        
-      
-            
+          <a href="https://www.linkedin.com/in/prasanna-a-78510a221/"><FaLinkedin/></a>
+          <a href="https://github.com/Amara3005"><FaGithub/></a>
+          {/* <a href="">    <FaInstagram/></a>   */}
         </div>
       </nav>
    
