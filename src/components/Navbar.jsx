@@ -13,7 +13,7 @@ const Navbar = () => {
         </div>
         <div className="m-8 flex item-center justify-center gap-4 text-2xl">
           <a href="https://www.linkedin.com/in/prasanna-a-78510a221/"><FaLinkedin/></a>
-          <a href="https://github.com/Amara3005"><FaGithub/></a>
+          {/* <a href="https://github.com/Amara3005"><FaGithub/></a> */}
           {/* <a href="">    <FaInstagram/></a>   */}
         </div>
       </nav>
